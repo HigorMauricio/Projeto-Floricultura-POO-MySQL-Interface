@@ -91,3 +91,5 @@ Exemplo:
 ### Flores Disponíveis:
 
 ![Image](https://github.com/user-attachments/assets/f42661b8-3131-4a1b-9541-12e526d26293)
+
+*Desing feito em colaboração com a minha namorada, Lara Melisa, muito obirgado pela ajuda.*
