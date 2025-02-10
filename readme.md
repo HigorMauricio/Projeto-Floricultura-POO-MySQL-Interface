@@ -28,7 +28,7 @@ Exemplo:
 
 2. fechar_conexão:
 
-    Ensera a conexão com o banco de dados.
+    Encera a conexão com o banco de dados.
 
 3. inserir_dados:
 
