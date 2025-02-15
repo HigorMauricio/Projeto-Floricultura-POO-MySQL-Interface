@@ -3,7 +3,7 @@
 
 O seguinte programa representa um "app" para utilização do dono(a) de uma floricultura. Nele a pessoa pode: 
 - adicionar flores ao estoque (Banco de Dados), após realizar uma compra de produtos. Informando o nome, cor e quantidade;
-- Criar um buque para algum cliente, a partir das opções de flores presentes no Banco de Dados e a removendo após a escolha; 
+- Criar um buque para algum cliente, a partir das opções de flores presentes no Banco de Dados o que as remove automaticamente após a escolha; 
 - Visualizar e deletar alguma flor no buque, fazendo com que essa flor volte a ficar diponível no Banco de Dados;
 - Visualizar e deletar flores dispóniveis, em caso de alguma adição errada.
 
