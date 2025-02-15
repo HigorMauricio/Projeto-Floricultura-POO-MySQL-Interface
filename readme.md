@@ -67,7 +67,7 @@ Exemplo:
 
 ## Final.py
 
-    É a responsável pela criação da interface gráfica e união dos outros dos arquivos.
+    É a responsável pela criação da interface gráfica e união dos outros dois arquivos.
     - Biblioteca utilizadas: tkinter e PIL
 
 ### Tela Inicial:
